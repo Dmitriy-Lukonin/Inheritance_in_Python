@@ -8,3 +8,4 @@ Dog1.output_info_pet()
 print('----'*35)
 Dog2 = Pet("Мухтар", "мальчик", "0")
 Dog2.output_info_pet()
+
